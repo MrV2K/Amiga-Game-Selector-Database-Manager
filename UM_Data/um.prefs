@@ -1,0 +1,21 @@
+﻿
+[Paths]
+Game_Data_Path = E:\UltraMiggy\Game_Data\
+LHA_Path = E:\UltraMiggy\Binaries\7z.exe
+IZARC_Path = E:\UltraMiggy\Binaries\izarcc.exe
+LZX_Path = E:\UltraMiggy\Binaries\unlzx.exe
+NConvert_Path = E:\UltraMiggy\Binaries\nconvert.exe
+Temp_Path = C:\Users\pvinc\AppData\Local\Temp\WHDTemp
+UAECFG_Path = E:\UltraMiggy\Configurations\
+WHD_Path = E:\UltraMiggy\WHD\
+WinUAE_Path = E:\UltraMiggy\WinUAE\winuae64.exe
+Data_Path = E:\UltraMiggy\UM_Data\
+IFF_Smooth = 1
+Short_Names = 0
+JSON_Backup = 1
+Show_Tags = 1
+Use_Bezels = 0
+Bezel_Source = 0
+Bezel_Type = 3
+Close_UAE = 1
+Bezel_Background = E:\UltraMiggy\UM_Data\Bezels\PNG\Wallpaper16.png
