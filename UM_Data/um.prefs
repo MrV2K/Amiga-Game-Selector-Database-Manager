@@ -1,15 +1,15 @@
 ﻿
 [Paths]
-Game_Data_Path = E:\UltraMiggy\Game_Data\
-LHA_Path = E:\UltraMiggy\Binaries\7z.exe
-IZARC_Path = E:\UltraMiggy\Binaries\izarcc.exe
-LZX_Path = E:\UltraMiggy\Binaries\unlzx.exe
-NConvert_Path = E:\UltraMiggy\Binaries\nconvert.exe
-Temp_Path = E:\UltraMiggy\WHDTemp
-UAECFG_Path = E:\UltraMiggy\Configurations\
-WHD_Path = E:\UltraMiggy\WHD\
-WinUAE_Path = E:\UltraMiggy\WinUAE\winuae64.exe
-Data_Path = E:\UltraMiggy\UM_Data\
+Game_Data_Path = E:\AGS_Database\Game_Data\
+LHA_Path = E:\AGS_Database\Binaries\7z.exe
+IZARC_Path = E:\AGS_Database\Binaries\izarcc.exe
+LZX_Path = E:\AGS_Database\Binaries\unlzx.exe
+NConvert_Path = E:\AGS_Database\Binaries\nconvert.exe
+Temp_Path = E:\AGS_Database\WHDTemp\
+UAECFG_Path = E:\AGS_Database\Configurations\
+WHD_Path = E:\AGS_Database\WHD\
+WinUAE_Path = E:\AGS_Database\WinUAE\winuae64.exe
+Data_Path = E:\AGS_Database\UM_Data\
 IFF_Smooth = 1
 Short_Names = 0
 JSON_Backup = 1
@@ -18,4 +18,4 @@ Use_Bezels = 0
 Bezel_Source = 0
 Bezel_Type = 3
 Close_UAE = 1
-Bezel_Background = E:\UltraMiggy\UM_Data\Bezels\default.png
+Bezel_Background = E:\AGS_Database\UM_Data\Bezels\default.png
